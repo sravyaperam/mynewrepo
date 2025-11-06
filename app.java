@@ -5,6 +5,7 @@ public class HelloWorld {
     }
 }
 new code added
+<<<<<<< Updated upstream
 public class Main {
   public static void main(String[] args) {
     String name = "John";
@@ -12,4 +13,7 @@ public class Main {
   }
 }
 
+=======
+dev 1 added the new code
+>>>>>>> Stashed changes
 
